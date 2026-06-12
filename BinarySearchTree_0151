@@ -19,3 +19,6 @@ Node(string i, Node* l, Node* r) {
     rightChild = r;
 }
 };
+
+//membuat class binary tree
+class BinaryTree {
